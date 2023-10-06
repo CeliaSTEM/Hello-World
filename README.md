@@ -6,15 +6,6 @@ Para **aprender a escribir** en un archivo .md: https://docs.github.com/es/get-s
 # Aprendiendo Git
 **clone https://...** Clona el repositorio
 
-**pull**
-
-**add**
-
-**commit**
-
-**commit -m**
-
-**push**
 
 # Comandos interesantes
 **cd ..** Vuelves al directorio anterior.
